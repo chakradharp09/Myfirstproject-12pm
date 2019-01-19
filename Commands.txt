@@ -1,0 +1,5 @@
+1.Git Log to see all the committed id's.
+2.Git Show<commit id> is useful to show the particular committed id.
+3.git log --author="Chakri"--->To See the the author what the commits has been changed.
+4.git log --oneline
+5.git diff <commit id>..<commit id>--> To show the diffrence between the two ids.
